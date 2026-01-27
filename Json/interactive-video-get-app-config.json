@@ -53,11 +53,11 @@
         },
         {
           "name": "native_home_id_1",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_home_id_2",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_home_full_id",
