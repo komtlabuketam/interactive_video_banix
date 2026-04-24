@@ -20,6 +20,10 @@
           "isEnabled": "true"
         },
         {
+          "name": "native_loading_id",
+          "isEnabled": "true"
+        },
+        {
           "name": "inter_splash_id",
           "isEnabled": "true"
         },
